@@ -1,5 +1,5 @@
-import { Table } from 'antd';
-<Table
+                    import { Table } from 'antd';
+                    <Table
                         className={css.table}
                         columns={columns}
                         dataSource={list}
