@@ -26,7 +26,7 @@
                         expandIcon={(props)=>{
                             return (xxx?null:
                                 (<div role="button" tabindex="0" class={props.expanded?"ant-table-row-expand-icon ant-table-row-expanded"
-                                :'ant-table-row-expand-icon ant-table-row-collapsed'}  onClick={(e)=>{ props.onExpand(props.record, e);}}/>)
+                                :'ant-table-row-expand-icon ant-table-row-collapsed'}  onClick={(e)=>{ props.onExpand(props.record, e)}}/>)
                             
                             )}}
                     />
