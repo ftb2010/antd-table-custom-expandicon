@@ -1,2 +1,3 @@
 # antd-table-custom-expandicon
-a project to custom only some rows display the expand icon
+a project to custom only some rows display the expand icon for antd v3
+
